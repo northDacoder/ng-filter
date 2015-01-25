@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -30,15 +30,18 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 .cd-header {
   position: relative;
   height: 150px;
   background-color: #331d35;
+  background: url('../img/bricks.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .cd-header h1 {
   color: #ffffff;
@@ -98,9 +101,9 @@ Main Components
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xtab-filter 
+xtab-filter
 
 -------------------------------- */
 .cd-tab-filter-wrapper {
@@ -247,9 +250,9 @@ xtab-filter
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xgallery 
+xgallery
 
 -------------------------------- */
 .cd-gallery {
@@ -309,9 +312,9 @@ xgallery
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xfilter 
+xfilter
 
 -------------------------------- */
 .cd-filter {
@@ -435,9 +438,9 @@ xfilter
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xcustom form elements 
+xcustom form elements
 
 -------------------------------- */
 .cd-filter-block {
